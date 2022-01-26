@@ -5,7 +5,7 @@
 * [Informasi Umum](#informasi-umum)
 * [Teknologi Digunakan](#teknologi-digunakan)
 * [Tampilan Program](#tampilan-program)
-* [Pengunaan](#pengunaan)
+* [Penggunaan](#penggunaan)
 * [Penulis](#penulis)
 <!-- * [License](#license) -->
 
