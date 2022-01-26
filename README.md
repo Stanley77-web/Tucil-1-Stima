@@ -56,9 +56,11 @@ Berikut ini cara menjalankan dan menggunakan program
 1. Klik folder program ```bin``` yang berisi file class dan jar seperti gambar berikut:
 
   ![image](https://cdn.discordapp.com/attachments/830474732477874226/935740482762449026/unknown.png)
+  
 2. Buka terminal ```cmd``` atau ```powershell``` pada path folder tersebut dengan cara klik kanan pada area kosong kemudian klik ```Open in Windows Terminal``` seperti gambar berikut:
 
   ![image](https://cdn.discordapp.com/attachments/830474732477874226/935740482762449026/unknown.png)
+  
 3. Ketikan ```java -jar --enable-preview SearchWord.jar``` pada terminal kemudian tekan ```enter``` 
 4. Masukan nama file configurasi dan juga versi brute force yang diinginkanseperti gambar dibawah ini
 
