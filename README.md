@@ -55,7 +55,7 @@ Program ini disarankan hanya digunakan di windows OS. Namun, pada windows biasan
 Berikut ini cara menjalankan dan menggunakan program
 1. Klik folder program ```bin``` yang berisi file class dan jar seperti gambar berikut:
 
-  ![image](https://cdn.discordapp.com/attachments/830474732477874226/935740482762449026/unknown.png)
+  ![image](https://media.discordapp.net/attachments/830474732477874226/935741546496680016/unknown.png)
   
 2. Buka terminal ```cmd``` atau ```powershell``` pada path folder tersebut dengan cara klik kanan pada area kosong kemudian klik ```Open in Windows Terminal``` seperti gambar berikut:
 
